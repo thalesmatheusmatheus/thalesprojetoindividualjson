@@ -1,0 +1,22 @@
+{
+    "biscoitos": [
+        {"nome": "Negresco","categoria": "doces","id": 1,"preço": 3.50},
+        {"nome": "Chocolícia", "categoria": "doces", "id": 2, "preço": 5.00},
+        {"nome": "Trakinas", "categoria": "doces", "id": 3, "preço": 2.50},
+        {"nome": "Fandangos 100g", "categoria": "salgados", "id": 4, "preço": 5.00}
+    ],
+
+    "sorvetes": [
+        {"nome": "kibon","sabor": "chocolate", "id": 5,"preço": 20.00},
+        {"nome": "picolé moreno", "sabor": "chocolate", "id": 6, "preço": 2.50},
+        {"nome": "ben&jerrys 500g ", "sabor": "trufado", "id": 7, "preço": 70.00},
+        {"nome": "açaí 400ml", "sabor": "maracujá", "id": 8, "preço": 10.00}
+    ],
+
+    "consumidores": [
+        {"nome":"roberta", "cpf":"111.111.111-11", "id":9, "telefone": "99999-9999"},
+        {"nome":"rodrigo", "cpf":"111.111.111-22", "id":10, "telefone": "99999-9988"},
+        {"nome":"ilana", "cpf":"111.111.111-77", "id":11, "telefone": "99999-9977"},
+        {"nome":"zeno", "cpf":"111.111.111-44", "id":12, "telefone": "99999-9955"}
+    ]
+}
